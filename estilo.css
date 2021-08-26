@@ -52,7 +52,7 @@ p{
 	background-color: green;
 	background: 
 	url(../img/imagen1.PNG) left top no-repeat,
-	url(../img/imagen2.PNG) right top no-repeat,
+	url(../img/imagen2.PNG) right top no-repeat;
 }
 
 #columnas{
